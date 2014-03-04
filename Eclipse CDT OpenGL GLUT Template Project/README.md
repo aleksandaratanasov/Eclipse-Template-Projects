@@ -1,0 +1,1 @@
+Contains various template projects for Eclipse such as OpenGL/GLUT, OpenCV etc.
